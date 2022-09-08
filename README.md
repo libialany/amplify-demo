@@ -78,3 +78,5 @@ amplify init
 amplify add api
 
 amplify push
+
+![image](https://user-images.githubusercontent.com/82403984/189193188-ba275bf5-c4d2-4550-8878-968e67281cc1.png)
